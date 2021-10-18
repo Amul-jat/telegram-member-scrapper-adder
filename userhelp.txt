@@ -1,0 +1,4 @@
+1. use vpn to use telegram auto because it uses web telegram which is banned in india 
+2. get api code and api hash from telegram.org to run all script
+3. in bulk msg you have to edit scraper.py and enter the api hash and api code and you phone number (phone number from text now and 2ndline)
+   then edit the sendmassege.py and 
